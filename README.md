@@ -1,4 +1,5 @@
 # vue-covid-tracker
+Find project on Heroku: https://guarded-hollows-92975.herokuapp.com/
 
 ## Project setup
 ```
